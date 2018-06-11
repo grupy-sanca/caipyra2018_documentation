@@ -4,12 +4,11 @@ Visite caipyra.python.org.br para mais informações sobre o único evento com q
 
 ## Informações Gerais
 
+| Cidade Sede | São Carlos - SP           |
+|-------------|---------------------------|
+| Data        | De 08 11 de Junho de 2018 |
+
 ## Números
-
-| Cidade Sede | São Carlos - SP   |
-|-------------|-------------------|
-| Data        | De 08 11 de Junho |
-
 
 ## Agenda
 
