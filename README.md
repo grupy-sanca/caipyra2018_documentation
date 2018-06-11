@@ -1,19 +1,37 @@
-# Caipyra 2018 Documentation
+# Caipyra 2018 - Documentação
 
-Visit caipyra.python.org.br to learn more about Caipyra and what is quentão and paçoquinha :)
+Visite caipyra.python.org.br para mais informações sobre o único evento com quentão e paçoquinha :)
+
+## Informações Gerais
+
+## Números
+
++----------------------+--------------------------+
+| Cidade sede          | São Carlos - SP          |
++----------------------+--------------------------+
+| Data                 | De 08 11 de Junho        |
++----------------------+--------------------------+
 
 
 ## Agenda
 
-
-### Keynotes (June 09 and 10)
-
-
-### Tutoriais (June 08)
+### Tutoriais (08 de Junho)
 
 - Patrícia Morimoto - [Testes Unitários com Python - Os primeiros passos](<https://drive.google.com/open?id=1fHfYI96ws_J4iYKDG7axJhXJ9prRVPaA>)
 
 - Vinícius Aires Barros - [Desenvolvendo Aplicações baseadas em Big Data com PySpark](<https://pt.slideshare.net/viniciusa1r3s/desenvolvendo-aplicaes-baseadas-em-big-data-com-pyspark>)
 
+### Keynotes (09 e 10 de Junho)
 
-### Palestras (June 09 and 10)
+
+### Palestras (09 e 10 de Junho)
+
+### Lightning Talks
+
+
+## Locais
+
+
+## Inovações
+
+
